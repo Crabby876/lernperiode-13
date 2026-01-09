@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/MainMenu.uss?fileID=7433441132597879392&amp;guid=922817665f933aa4eba09a35ba0949dd&amp;type=3#MainMenu" />
+    <ui:VisualElement name="Panel" class="panel" style="flex-grow: 1; background-image: url(&apos;project://database/Assets/DiveBomb/DiveBombBackGround.jpg?fileID=21300000&amp;guid=166d573c0682b8b45b93fa2ff4149edf&amp;type=3#DiveBombBackGround&apos;);">
+        <ui:VisualElement name="TitleContainer" class="title" style="flex-grow: 1; align-items: flex-end; justify-content: flex-end; align-self: center;" />
+        <ui:VisualElement name="Container" class="menu" style="flex-grow: 1; align-self: center; justify-content: flex-start; align-items: center; background-color: rgba(166, 225, 253, 0.89); -unity-background-image-tint-color: rgb(147, 202, 255); border-left-color: rgb(147, 202, 255); border-right-color: rgb(147, 202, 255); border-top-color: rgb(147, 202, 255); border-bottom-color: rgb(147, 202, 255);">
+            <ui:Button text="Play" parse-escape-sequences="true" display-tooltip-when-elided="true" name="play-button" />
+            <ui:Button text="Settings" parse-escape-sequences="true" display-tooltip-when-elided="true" name="settings-button" />
+            <ui:Button text="Quit" parse-escape-sequences="true" display-tooltip-when-elided="true" name="quit-button" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
