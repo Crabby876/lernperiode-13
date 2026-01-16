@@ -11,3 +11,11 @@ In dieser LP möchte ich mir eine neue Technologie beibringen und so mein Wissen
 - [ ]  Startbutton programmieren, dass das Spiel nach dem klick startet und die UI versteckt wird
 - [ ]  Quitbutton programmieren, dass das Spiel beendet wird.
 - [ ]  Im spiel ein Button um auf den Mainmenu zu komen erstellen.
+
+Heute habe ich mit der Technologie UI Toolkit von Unity mit dem Tutorial das erste MainMenu GUI erstellt. Es wurden alle Buttons erstellt und sind interaktiv durch hover effecte. Als nächstes muss noch ein click Event hinzugefügt werden. Ausserdem habe ich mich dazu entschieden den Code weiter hin auf der LP 12 hochzuladen für weniger Koplikationen.
+
+- [ ]  Startbutton programmieren, dass das Spiel nach dem klick startet und die UI versteckt wird
+- [ ]  Quitbutton programmieren, dass das Spiel beendet wird.
+- [ ]  Im spiel ein Button um auf den Mainmenu zu komen erstellen.
+- [ ]  Screen für alle Levles erstellen
+- [ ]  Level nach auswahl laden und spiel Starten.
